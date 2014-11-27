@@ -1,6 +1,9 @@
 FlipCheckBox
 ====
 
+[!image](https://github.com/longtaoge/FlipCheckBox/blob/master/ViewFlipper.gif)
+
+
 ###Description
 
 Give your collections (on any `View` at all) a fancier look by adding a cool way to check elements. If your list can multi-select elements, you can add this component as a "status indicator". This is basically a customizable view flipper, with a "_front_" and "_rear_" faces, and an "accept" image in the "_rear_" that will animate changes in its state, mostly like the [GMail][1] app.
