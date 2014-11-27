@@ -1,7 +1,6 @@
 FlipCheckBox
 ====
-
-[!image](https://github.com/longtaoge/FlipCheckBox/blob/master/ViewFlipper.gif)
+![image](https://github.com/longtaoge/FlipCheckBox/blob/master/ViewFlipper.gif)
 
 
 ###Description
